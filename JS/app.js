@@ -6,12 +6,12 @@ let black_btn = document.getElementById("black");
 
 // Set the event on each element separately.
 red_btn.onclick = function () {
-    bike.style.backgroundImage = "url(IMAGES/BMW1.png)"
+    bike.style.backgroundImage = "url(../IMAGES/BMW1.png)"
 };
 blue_btn.onclick = function () {
-    bike.style.backgroundImage = "url(IMAGES/BMW2.png)"
+    bike.style.backgroundImage = "url(../IMAGES/BMW2.png)"
 };
 black_btn.onclick = function () {
-    bike.style.backgroundImage = "url(IMAGES/BMW3.png)"
+    bike.style.backgroundImage = "url(../IMAGES/BMW3.png)"
 };
 
